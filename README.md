@@ -1,6 +1,6 @@
 # Test Scraping BB
 
-# Enunciado
+# Enunciado📋
 
 _Obtener todas las películas y series_
 
@@ -15,6 +15,12 @@ _PLUS: Metadata de los episodios_
 _PLUS: Si es posible obtener mas información/metadata por cada contenido_
 
 _PLUS: Identificar modelo de negocio_
+
+## Scripts 📦
+
+_movie_scraping.py_
+
+_series_scraping.py_
 
 ## Ejecución 🚀
 
