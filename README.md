@@ -26,7 +26,7 @@ _En la carpeta 'Export' se guardarán los archivos_
 
 ## Autor ✒️
 
-* **Facundo Sosa Rúveda** - *Desarrollador Python* - [FacundoSRuveda](https://github.com/villanuevand)
+* **Facundo Sosa Rúveda** - *Desarrollador Python* - [FacundoSRuveda](https://github.com/facundosr)
 
 
 
